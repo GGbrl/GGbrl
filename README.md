@@ -25,10 +25,16 @@ Hi everyone! My name is Gabriel, and I have a strong interest in the world of te
 
 
 
-https://github.com/user-attachments/assets/d3fe5551-3fcc-4252-ad6d-93ef67acd53e
+
+https://github.com/user-attachments/assets/e3390f37-c93b-4e2d-a514-b372274bc80b
+
+
+
+https://github.com/user-attachments/assets/3e8390d5-e395-403c-aa62-3e6559282130
+
+
 ##
 
 
-https://github.com/user-attachments/assets/804987a6-af6e-4185-a7c9-595c1d20bbea
 
 
