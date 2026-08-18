@@ -4,7 +4,8 @@
 **`Computer Science Student`**
 
 ##
-<img width="736" height="913" alt="63f92ca0762adb720824704742d2f638" src="https://github.com/user-attachments/assets/e5c01476-40a3-4f1d-b1e5-c2f7dc41ed18" />
+<img width="640" height="362" alt="giphy" src="https://github.com/user-attachments/assets/df4eb0a5-4561-4df2-ae80-ed52bbe0c0be" />
+
 
 ---
 
