@@ -26,7 +26,7 @@
     <td valign="middle">  
       <br>  
       <b>cibersecurity (Computer Science)</b> | Class of 2026<br><br>  
-  Hi everyone! My name is Gabriel, and I have a strong interest in the world of technology and related fields. I am currently studying Computer Science, have a background in hardware and robotics, and intend to pursue a career in cybersecurity.<br><br>  
+  Hi everyone! My name is Gabriel silva, and I have a strong interest in the world of technology and related fields. I am currently studying Computer Science, have a background in hardware and robotics, and intend to pursue a career in cybersecurity.<br><br>  
     I am currently focused on project creation, specifically developing programs, robotics, and systems. I am interested in learning and putting my knowledge to the test.<br><br>  
     </td>  
   </tr>  
