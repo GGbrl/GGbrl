@@ -1,3 +1,10 @@
+<img width="1376" height="768" alt="logo_transparent" src="https://github.com/user-attachments/assets/add67109-1e42-4bb6-ab5d-55b82084edfe" />
+
+
+
+---
+
+
 <img width="1199" height="399" alt="b7f45ef0c8c4b5b0e902fb314801d199" src="https://github.com/user-attachments/assets/d119504c-e464-4a80-94bd-a1271c925364" />
 
 
