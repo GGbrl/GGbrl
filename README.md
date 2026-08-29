@@ -1,8 +1,3 @@
-<img width="1500" height="500" alt="Your paragraph text" src="https://github.com/user-attachments/assets/e3271480-19a7-4cf1-a4b6-736a928d6744" />
-
-
-
----
 
 </div>  
 <br>  
@@ -48,8 +43,6 @@
 
 ---
 
-
-<img width="336" height="365" alt="Captura de tela 2026-08-18 182236" src="https://github.com/user-attachments/assets/ddf4f3f7-ce8f-4f1a-9a16-ca528dbd2d36" />
 
 
 
